@@ -1,11 +1,15 @@
-Boas Vindas ao meu perfil 🥷
-meu nome e Kauan
+### Boas Vindas ao meu perfil 🥷
 
--Estou estudando no Alura -Estou me desenvolvendo na linguagem Javascript -Utilizando esse espaço para a organizaçao e compartilhamento dos meus projetos desenvolvidos
+Meu nome é Kauan Cardoso
 
-você entrar em contato comigo 📫
+-Estou estudando no [Alura](https
+-Estou me desenvolvendo na linguagem Javascript 
+-Utilizando esse espaço para a organizaçao e compartilhamento dos meus projetos desenvolvidos
+
+### você entrar em contato comigo 📫
+
 00001141988756sp@al.educacao.sp.gov.br
 
 INSTAGRAM> @cardoso.x5
 
-https://media1.tenor.com/m/bMTgtSIQuHsAAAAC/nighttime-snow.gif
+![](https://media1.tenor.com/m/bMTgtSIQuHsAAAAC/nighttime-snow.gif)
