@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @cardosox5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Boas Vindas ao meu perfil 🥷
+meu nome e Kauan
 
-<!---
-cardosox5/cardosox5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Estou estudando no Alura -Estou me desenvolvendo na linguagem Javascript -Utilizando esse espaço para a organizaçao e compartilhamento dos meus projetos desenvolvidos
+
+você entrar em contato comigo 📫
+00001141988756sp@al.educacao.sp.gov.br
+
+INSTAGRAM> @cardoso.x5
+
+https://media1.tenor.com/m/bMTgtSIQuHsAAAAC/nighttime-snow.gif
