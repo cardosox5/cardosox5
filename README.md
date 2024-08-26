@@ -2,8 +2,10 @@
 
 Meu nome é Kauan Cardoso
 
--Estou estudando no [Alura](https
+-Estou estudando no [Alura]
+
 -Estou me desenvolvendo na linguagem Javascript 
+
 -Utilizando esse espaço para a organizaçao e compartilhamento dos meus projetos desenvolvidos
 
 ### você entrar em contato comigo 📫
